@@ -1,0 +1,27 @@
+.product-detail {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+}
+
+.detail-image {
+  max-width: 400px;
+  border-radius: 10px;
+}
+
+.detail-info h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.detail-info p {
+  margin: 10px 0;
+}
+
+.detail-info button {
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
